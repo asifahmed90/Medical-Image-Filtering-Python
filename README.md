@@ -5,7 +5,8 @@ Follow the simple steps:
 1. Put all the .py files in a folder.
 2. Create two folders. 'junk' and 'Repo'.
 3. Change the source code for required slice thickness. 
-4. Input name of the dicom files that needed to be filtered.
+4. Run Main.py file only.
+5. Input name of the dicom files that needed to be filtered when asked.
 
 The code is able to do the following steps:
 1. Rename the Dicom files.
