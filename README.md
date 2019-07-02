@@ -1,5 +1,5 @@
 # Dicom-Filtering
-Filters dicom based on slice thickness and series ID and save useful information in a new csv file. Also remove corrupt or null dicom files.
+Filters dicom based on slice thickness and series ID and save useful information in a new csv file. This code has been developed for ImmersiveTouch Inc. which is a VR based startup specialized in healthcare based VR software and has been integrated in their pipeline. 
 
 Follow the simple steps:
 1. Put all the .py files in a folder.
